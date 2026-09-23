@@ -1,0 +1,17 @@
+# API keys — never commit this
+.env
+
+# Virtual environment — no need to backup, recreatable
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local state files (runtime data, machine/instance-specific data)
+state/
